@@ -6,7 +6,7 @@ const btnGroup = document.querySelector(".btn-group");
 
 yesBtn.addEventListener("click", () => {
   question.innerHTML = "I love you too! 😘";
-  gif.src = "giphy3.webp";
+  gif.src = "2.webp";
   
   yesBtn.style.display = "none";
   noBtn.style.display = "none";
